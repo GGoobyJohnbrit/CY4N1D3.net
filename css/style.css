@@ -1,0 +1,13 @@
+ p.code {
+   background-color: gray;
+   color: green;
+   padding: 3px;
+   margin: 16px;
+   font-family: monospace;
+ }
+
+body.d {
+  background-color: black;
+  color: green;
+  font-family: monospace;
+}
